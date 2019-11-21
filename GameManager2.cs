@@ -1,4 +1,5 @@
-﻿using System.Threading.Tasks;
+//Version that lets you place the marker anywhere in the grid no matter what. Use the other file for the regular version or rename this to GameManager.cs
+using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media;
