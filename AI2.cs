@@ -1,4 +1,4 @@
-//Only use when you can place the marker wherever you want
+//Only use when you can place the marker wherever you want (after renaming to AI.cs). Otherwise use the AI.cs file
 using System;
 using System.Collections.Generic;
 
