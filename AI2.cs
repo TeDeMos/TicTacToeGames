@@ -1,4 +1,5 @@
-﻿using System;
+//Only use when you can place the marker wherever you want
+using System;
 using System.Collections.Generic;
 
 namespace TicTacToe
